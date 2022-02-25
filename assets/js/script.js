@@ -1,6 +1,5 @@
 let image_content = document.querySelectorAll('.image-content'),
 search = document.querySelector('.search'),
-image_title = document.querySelectorAll('.image-title'),
 cake_title = document.querySelectorAll('.cake-title');
 
 
